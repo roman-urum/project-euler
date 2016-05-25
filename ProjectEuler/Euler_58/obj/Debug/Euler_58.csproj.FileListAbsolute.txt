@@ -1,0 +1,9 @@
+C:\Users\Olga Panco\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Euler_58\bin\Debug\Euler_58.exe.config
+C:\Users\Olga Panco\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Euler_58\bin\Debug\Euler_58.exe
+C:\Users\Olga Panco\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Euler_58\bin\Debug\Euler_58.pdb
+C:\Users\Olga Panco\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Euler_58\obj\Debug\Euler_58.csprojResolveAssemblyReference.cache
+C:\Users\Olga Panco\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Euler_58\obj\Debug\Euler_58.exe
+C:\Users\Olga Panco\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Euler_58\obj\Debug\Euler_58.pdb
+D:\project-euler\ProjectEuler\Euler_58\bin\Debug\Euler_58.exe.config
+D:\project-euler\ProjectEuler\Euler_58\obj\Debug\Euler_58.exe
+D:\project-euler\ProjectEuler\Euler_58\obj\Debug\Euler_58.pdb
